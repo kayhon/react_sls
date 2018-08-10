@@ -1,6 +1,11 @@
 {
   "name": "react-theme",
   "version": "0.0.0",
+  "engines": {
+    "node": "10.7.0",
+    "npm": "6.3.0",
+    "yarn": "1.9.4"
+  },
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",

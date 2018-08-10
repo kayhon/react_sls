@@ -11,9 +11,9 @@ const contactSchema = new Schema({
 });
 // }, { _id: false });
 
-let Contact = mongoose.model("Contact", contactSchema);
+let contact = mongoose.model("contact", contactSchema);
 
-module.exports = Contact;
+module.exports = contact;
 
 
 

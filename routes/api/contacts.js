@@ -16,9 +16,9 @@ router.post("/", function(req, res){
         email: req.body.email,
         location: req.body.location
     };
-    db.Contact
+    db.contact
         .create(contact)
-        .then(dbContact => res.json(dbContact))
+        .then(dbcontact => res.json(dbcontact))
         .catch(err => console.log(err));
             // res.status(422).json(err));
        

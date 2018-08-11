@@ -30,16 +30,16 @@ We  also added  a method of lead generation for the business owner by collecting
 Hogan.js is a compiler for the Mustache templating language.
 <br>
 Other npm's used: <br>
-- express-generator4
-- babel-core
-- babel-preset-react
-- babel-preset-es2015
-- Webpack
-- webpack-dev-server
+- express-generator4<br>
+- babel-core<br>
+- babel-preset-react<br>
+- babel-preset-es2015<br>
+- Webpack<br>
+- webpack-dev-server<br>
 
 ### Future additions:
--nodemailer for the contact form
--Admin section improvement with authentication and database display
+-nodemailer for the contact form<br>
+-Admin section improvement with authentication and database display<br>
 
 ### Website & Project history:
 Original site: <br>

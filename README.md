@@ -7,7 +7,7 @@
 
 # See how it works:
 <br>
-![database-before-01-gif](https://github.com/kayhon/react_sls/blob/master/Resources/reactsls.gif)<br>
+![database-before-01-gif](https://github.com/kayhon/react_sls/blob/master/Resources/slsgif.gif)<br>
 
 **Basic Instructions** - The target Client/User for this website is someone looking for a specialized facility for their loved one in need of care. Once the 'User' fills out the form 2 important things happen. 1 - The User receives info about a variety of facilities for a loved one in the location of their choice. 2 - Once the results are displayed, the info entered becomes a 'Lead' for the Owner which goes into a database. Users can also find out about the company through the info displayed and reach out to the owner directly. In addition there is a section for the Admin/Owner.
 

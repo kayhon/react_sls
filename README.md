@@ -10,11 +10,12 @@
 
 ![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/slsog2.gif)
 
-**Basic Instructions** - The target Client/User for this website is someone looking for a specialized facility for their loved one in need of care. Once the 'User' fills out the form 2 important things happen. 1 - The User receives info about a variety of facilities for a loved one in the location of their choice. 2 - Once the results are displayed, the info entered becomes a 'Lead' for the Owner which goes into a database. Users can also find out about the company through the info displayed and reach out to the owner directly. In addition there is a section for the Admin/Owner.
+# Basic Instructions
+The target Client/User for this website is someone looking for a specialized facility for their loved one in need of care. Once the 'User' fills out the form 2 important things happen. 1 - The User receives info about a variety of facilities for a loved one in the location of their choice. 2 - Once the results are displayed, the info entered becomes a 'Lead' for the Owner which goes into a database. Users can also find out about the company through the info displayed and reach out to the owner directly. In addition there is a section for the Admin/Owner.
 
 ![slideshow-pics-jpg-01](https://github.com/kayhon/seniorlivingservice/blob/master/public/assets/img/slide1.jpg)<br>
 
-### More about the project:
+# More about the project:
 
 Our client needed a website that provided a portal where visitors and potential clients can search for facilities in their area as well as learn more about the services our client provides. So we decided to polish the working application by using React.js and MongoDB.
 We  also added  a method of lead generation for the business owner by collecting user data and storing it to a database only accessible by an administrator.
@@ -29,7 +30,8 @@ We  also added  a method of lead generation for the business owner by collecting
 <br>
 Hogan.js is a compiler for the Mustache templating language.
 <br>
-Other npm's used: <br>
+
+### Other npm's used:
 - express-generator4<br>
 - babel-core<br>
 - babel-preset-react<br>

@@ -10,41 +10,6 @@
 
 ![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/slsog2.gif)
 
-![slideshow-pics-jpg-0331](https://github.com/kayhon/react_sls/blob/master/Resources/sls_1.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_11.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_2.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_22.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_3.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_33.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_4.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_44.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_5.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_55.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_6.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_66.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_7.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_77.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_8.jpg)
-
-![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_88.jpg)
-
-
-
-
 **Basic Instructions** - The target Client/User for this website is someone looking for a specialized facility for their loved one in need of care. Once the 'User' fills out the form 2 important things happen. 1 - The User receives info about a variety of facilities for a loved one in the location of their choice. 2 - Once the results are displayed, the info entered becomes a 'Lead' for the Owner which goes into a database. Users can also find out about the company through the info displayed and reach out to the owner directly. In addition there is a section for the Admin/Owner.
 
 ![slideshow-pics-jpg-01](https://github.com/kayhon/seniorlivingservice/blob/master/public/assets/img/slide1.jpg)<br>
@@ -102,3 +67,19 @@ The NyTimes React App uses the following NPM packages:
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
 --*and many more*
+
+![slideshow-pics-jpg-0331](https://github.com/kayhon/react_sls/blob/master/Resources/sls_1.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_2.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_3.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_4.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_5.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_6.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_7.jpg)
+
+![slideshow-pics-jpg-0221](https://github.com/kayhon/react_sls/blob/master/Resources/sls_8.jpg)

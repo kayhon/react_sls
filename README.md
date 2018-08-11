@@ -30,12 +30,12 @@ We  also added  a method of lead generation for the business owner by collecting
 Hogan.js is a compiler for the Mustache templating language.
 <br>
 Other npm's used: <br>
-*express-generator4
-*babel-core
-*babel-preset-react
-*babel-preset-es2015
-*Webpack
-*webpack-dev-server
+- *express-generator4*
+- *babel-core*
+- *babel-preset-react*
+- *babel-preset-es2015*
+- *Webpack*
+- *webpack-dev-server*
 
 ### Future additions:
 -nodemailer for the contact form
@@ -67,6 +67,29 @@ The NyTimes React App uses the following NPM packages:
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
 - mongoose NPM Package - [https://www.npmjs.com/package/mongoose](https://www.npmjs.com/package/mongoose)
 --*and many more*
+
+## Technology list
+
+- Npm
+- Node.js
+- Axios
+- MongoDB
+- Babel
+- Mongoose
+- Express
+- React
+- React-Dom
+- Google API
+- Bootstrap
+- HTML5
+- CSS
+- jQuery
+- node-mailer
+- Handlebars-react
+
+            Copyright 2018 by (Bytemedia!)<br>
+  Ulysse Hakizimana, George Raymond, Kayhon Ahankoob<br>
+            @UCLA Extension Coding Bootcamp<br>
 
 ![slideshow-pics-jpg-0331](https://github.com/kayhon/react_sls/blob/master/Resources/sls_1.jpg)
 

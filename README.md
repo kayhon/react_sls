@@ -89,7 +89,7 @@ The NyTimes React App uses the following NPM packages:
 - node-mailer
 - Handlebars-react
 
-            Copyright 2018 by (Bytemedia)
+            Copyright 2018 by (Bytemedia Team)
   Ulysse Hakizimana, George Raymond, Kayhon Ahankoob<br>
             @UCLA Extension Coding Bootcamp<br>
 

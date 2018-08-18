@@ -42,6 +42,7 @@ Hogan.js is a compiler for the Mustache templating language.
 ### Future additions:
 -nodemailer for the contact form<br>
 -Admin section improvement with authentication and database display<br>
+-google pages Excel link for admin section<br>
 
 ### Website & Project history:
 Original site: <br>
